@@ -1,4 +1,8 @@
-# Gandalf-AI-hacking
-this is for the site:
-https://gandalf.lakera.ai
-so if your having trouble, I can help you.
+# hacking
+this is for:
+
+https://gandalf.lakera.ai/
+
+https://tryhackme.com/
+
+if your having trouble, I can help you.
