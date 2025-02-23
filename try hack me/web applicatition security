@@ -1,0 +1,11 @@
+1: 
+1.Browser
+
+2:
+1.Identification and Authentication Failure
+2.Cryptographic Failures
+
+3:
+click view site. change the url in it to:
+https://inventory-management.thm/activity?user_id=9
+click revert for every single thing.
